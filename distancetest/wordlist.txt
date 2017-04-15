@@ -49,6 +49,7 @@ Cake
 Cookies
 Donuts
 Pastries
+Bread
 Fresh bread
 Pie! Pie! Pie!
 Pita bread
@@ -151,6 +152,7 @@ Tofu
 Tortillas
 Applesauce
 Baked beans
+Garbanzo beans
 Broth
 Fruit
 Olives
@@ -308,3 +310,4 @@ Insect repellent
 Light bulbs
 Newspaper
 Magazine
+Sesame Seeds
